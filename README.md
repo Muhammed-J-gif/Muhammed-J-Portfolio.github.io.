@@ -54,6 +54,8 @@ _Aug 2025_
 - Queried sales data to identify top-performing employees for bonus consideration.  
 - Applied SQL and business logic to solve a real-world decision-making scenario.
 
+
+
 ### Data Visualization with Power BI – Personal Project  
 **Greek-Inspired Pizza Shop Sales Dashboard** 
 Project File: 
