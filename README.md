@@ -13,10 +13,10 @@ Strategic and analytical professional with 3+ years of experience transforming c
 ---
 
 ## 🎓 Education & Certifications
-- **High School Diploma** – Thomas Worthington High School (2019)  
-- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)  
-- **Skillspire IDA Certificate: Data Analyst** – Sept 2023  
+- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)
 - **Coursera SQL Project Certificate** – Aug 2025
+- **Skillspire IDA Certificate: Data Analyst** – Sept 2023 
+- **High School Diploma** – Thomas Worthington High School (2019)  
 
 ---
 ## 🛠️ Skills & Expertise
@@ -34,8 +34,8 @@ Strategic and analytical professional with 3+ years of experience transforming c
 - Comfortable navigating ambiguity and proposing scalable solutions across engineering, product, and support teams.
 
 ### 🤝 Cross-Functional Collaboration & Communication
-- Partnered with engineering and customer success teams during international launches (Bangladesh, Sri Lanka), shaping rollout strategy and tooling feedback.
-- Created internal documentation and training resources using Notion, Confluence, and GitHub to scale onboarding and improve operational consistency.
+- Partnered with engineering and customer success teams during international market launches shaping rollout strategy and tooling feedback.
+- Created internal documentation and training resources using Confluence and internal resource to improve operation procedures.
 - Recognized for clear, empathetic communication and leadership in high-volume global support environments.
 
 ### 📈 Customer Experience & Strategic Impact
