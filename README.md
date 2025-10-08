@@ -1,34 +1,22 @@
-# Muhammed Jangana  
+# Muhammed J.  
 **Business Analyst & Data Strategist**  
 📍 Washington, USA  
 📧 Ibnsulayman.da@gmail.com 
-🌐 [GitHub Profile](https://github.com/Muhammed-J-gif)
+🌐[GitHub Profile](https://github.com/Muhammed-J-gif)
+🌐[LinkedIn Profile](www.linkedin.com/in/muhammed-jangana)
 
 ---
 
 ## 🧠 Summary  
-Strategic and analytical professional with 2+ years of experience transforming complex data into actionable insights. Skilled in SQL, Python, Power BI, and Excel to drive decision-making, automate reporting, and improve customer experience. Proven success in process optimization, cross-functional collaboration, and scalable documentation.
+Strategic and analytical professional with 3+ years of experience transforming complex data into actionable insights. Skilled in SQL, Python, Power BI, and Excel to drive decision-making, automate reporting, and improve customer experience. Proven success in process optimization, cross-functional collaboration, and scalable documentation.
 
 ---
 
-## 💼 Experience
-
-### Starlink @ SpaceX  
-**Customer Support Associate**  
-_Aug 2022 – Aug 2024_
-
-- Diagnosed global connectivity issues using SQL and Python; reduced escalations and improved satisfaction (avg. 4.75%).  
-- Submitted 10+ scoped Jira tickets that led to tooling updates and SOP improvements.  
-- Collaborated with engineering and product teams during international launches (Bangladesh, Sri Lanka), shaping rollout strategy.  
-- Created internal documentation and training resources to scale onboarding and support clarity.
-
-### Avis Car Rentals  
-**Customer Service Representative**  
-_Sept 2020 – Jul 2022_
-
-- Designed a customer feedback system that cut rental pickup time by 50%.  
-- Analyzed customer data to identify trends and improve service delivery.  
-- Spearheaded premium customer system improvements for tailored experiences.
+## 🎓 Education & Certifications
+- **High School Diploma** – Thomas Worthington High School (2019)  
+- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)  
+- **Skillspire IDA Certificate: Data Analyst** – Sept 2023  
+- **Coursera SQL Project Certificate** – Aug 2025
 
 ---
 
@@ -41,35 +29,31 @@ _Aug 2025_
 - Queried sales data to identify top-performing employees for bonus consideration.  
 - Applied SQL and business logic to solve a real-world decision-making scenario.
 
-### Power BI Dashboard – Performance Insights *(Optional)*  
-- Built interactive dashboard to monitor KPIs and visualize trends across support operations.  
-- Used DAX formulas and slicers to enable dynamic reporting.
-
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Expertise
 
-**Languages & Libraries**  
-- SQL · Python (Pandas, matplotlib)
+### 📊 Data Analysis & Business Intelligence
+- **SQL**: Used in Metabase to query support data, surface patterns, and support operational reporting.
+- **Python**: Applied Pandas and matplotlib for performance tracking and data visualization.
+- **Power BI**: Built dashboards and used DAX formulas to monitor KPIs and highlight performance trends.
+- **Excel**: Leveraged pivot tables, VLOOKUP, and conditional formatting for tracking, forecasting, and reporting.
+- **Metabase**: Used for ad hoc queries and visual exploration of support data to inform process improvements.
 
-**BI & Reporting**  
-- Power BI · Excel (pivot tables, VLOOKUP) · Tableau (learning)
+### 🔧 Process Optimization & Automation
+- Submitted 10+ scoped Jira tickets that led to updates in SOPs, tooling, and support workflows.
+- Led documentation modernization projects bridging legacy and current SOPs, improving clarity and reducing resolution time.
+- Comfortable navigating ambiguity and proposing scalable solutions across engineering, product, and support teams.
 
-**Workflow & Documentation**  
-- Jira · Confluence · Notion · GitHub
+### 🤝 Cross-Functional Collaboration & Communication
+- Partnered with engineering and customer success teams during international launches (Bangladesh, Sri Lanka), shaping rollout strategy and tooling feedback.
+- Created internal documentation and training resources using Notion, Confluence, and GitHub to scale onboarding and improve operational consistency.
+- Recognized for clear, empathetic communication and leadership in high-volume global support environments.
 
-**Soft Skills**  
-- Data storytelling · Process improvement  
-- Cross-functional collaboration · Customer-first communication
-
----
-
-## 🎓 Education & Certifications
-
-- **High School Diploma** – Thomas Worthington High School (2019)  
-- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)  
-- **Skillspire IDA Certificate: Data Analyst** – Sept 2023  
-- **Coursera SQL Project Certificate** – Aug 2025
+### 📈 Customer Experience & Strategic Impact
+- Maintained a 4.75% average customer satisfaction score by translating feedback into actionable improvements.
+- Diagnosed software, hardware, and network issues using DBMS tools—preventing unnecessary replacements and improving operational efficiency.
+- Delivered rapid issue resolution through business analysis and stakeholder alignment, contributing to quality assurance and process excellence.
 
 ---
 
