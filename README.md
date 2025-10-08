@@ -1,8 +1,8 @@
 # Muhammed Jangana  
 **Business Analyst & Data Strategist**  
-📍 Bellevue, WA  
-📧 [Email Address]  
-🌐 [Portfolio Website or GitHub Profile]
+📍 WA, USA  
+📧 Ibnsulayman.da@gmail.com 
+🌐 [GitHub Profile](https://github.com/Muhammed-J-gif)
 
 ---
 
@@ -53,7 +53,7 @@ _Aug 2025_
 - SQL · Python (Pandas, matplotlib)
 
 **BI & Reporting**  
-- Power BI · Excel (pivot tables, VLOOKUP, macros) · Tableau (learning)
+- Power BI · Excel (pivot tables, VLOOKUP) · Tableau (learning)
 
 **Workflow & Documentation**  
 - Jira · Confluence · Notion · GitHub
@@ -67,7 +67,7 @@ _Aug 2025_
 ## 🎓 Education & Certifications
 
 - **High School Diploma** – Thomas Worthington High School (2019)  
-- **Advanced Data Analytics Certificate** – Coursera (2025)  
+- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)  
 - **Skillspire IDA Certificate: Data Analyst** – Sept 2023  
 - **Coursera SQL Project Certificate** – Aug 2025
 
@@ -80,6 +80,3 @@ _Aug 2025_
 
 **Hobbies**  
 - Chess · Jigsaw Puzzles
-
-**Portfolio**  
-- [Link to dashboards, SQL scripts, documentation samples]
