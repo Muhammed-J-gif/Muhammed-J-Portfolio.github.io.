@@ -54,6 +54,16 @@ _Aug 2025_
 - Queried sales data to identify top-performing employees for bonus consideration.  
 - Applied SQL and business logic to solve a real-world decision-making scenario.
 
+### Data Visualization with Power BI – Personal Project  
+**Greek-Inspired Pizza Shop Sales Dashboard** 
+Project File: 
+_JUL 2023_
+
+- Analyzed transactional data to uncover sales trends, peak hours, and best-selling pizzas.  
+- Built an interactive Power BI dashboard to support decisions around staffing, inventory, and seating utilization.  
+- Applied data modeling, DAX measures, and business logic to answer key operational questions.  <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/9dc15505-5b2e-4c97-b220-4cd5d457550f" />
+
+
 ---
 
 ## 🧩 Extras
