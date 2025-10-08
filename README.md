@@ -19,18 +19,6 @@ Strategic and analytical professional with 3+ years of experience transforming c
 - **Coursera SQL Project Certificate** – Aug 2025
 
 ---
-
-## 📊 Projects
-
-### Data Analysis with SQL – Coursera Project  
-**Northwind Traders Bonus Eligibility**  
-_Aug 2025_
-
-- Queried sales data to identify top-performing employees for bonus consideration.  
-- Applied SQL and business logic to solve a real-world decision-making scenario.
-
----
-
 ## 🛠️ Skills & Expertise
 
 ### 📊 Data Analysis & Business Intelligence
@@ -54,6 +42,17 @@ _Aug 2025_
 - Maintained a 4.75% average customer satisfaction score by translating feedback into actionable improvements.
 - Diagnosed software, hardware, and network issues using DBMS tools—preventing unnecessary replacements and improving operational efficiency.
 - Delivered rapid issue resolution through business analysis and stakeholder alignment, contributing to quality assurance and process excellence.
+
+---
+
+## 📊 Projects
+
+### Data Analysis with SQL – Coursera Project  
+**Northwind Traders Bonus Eligibility**  
+_Aug 2025_
+
+- Queried sales data to identify top-performing employees for bonus consideration.  
+- Applied SQL and business logic to solve a real-world decision-making scenario.
 
 ---
 
