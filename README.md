@@ -1,6 +1,6 @@
 # Muhammed Jangana  
 **Business Analyst & Data Strategist**  
-📍 WA, USA  
+📍 Washington, USA  
 📧 Ibnsulayman.da@gmail.com 
 🌐 [GitHub Profile](https://github.com/Muhammed-J-gif)
 
