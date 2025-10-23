@@ -2,7 +2,9 @@
 **Business Analyst & Data Strategist**  
 📍 Washington, USA  
 📧 Ibnsulayman.da@gmail.com 
+
 🌐[GitHub Profile](https://github.com/Muhammed-J-gif)
+
 🌐[LinkedIn Profile](www.linkedin.com/in/muhammed-jangana)
 
 ---
