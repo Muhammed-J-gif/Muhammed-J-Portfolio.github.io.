@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Summary  
+## 🧠 About Me 
 I’m a strategic and analytical professional passionate about transforming complex data into clear, actionable insights that drive process improvements and enhance customer satisfaction. My portfolio showcases hands-on projects how I’ve gain skills acquired though experience, courses, & certificates including SQL, Python, and Power BI to solve problem using data on a global scale.
 
 ---
@@ -39,18 +39,6 @@ I’m a strategic and analytical professional passionate about transforming comp
 - Delivered rapid issue resolution through business analysis and stakeholder alignment, contributing to quality assurance and process excellence.
 
 ---
----
-
-## 🎓 Education & Certifications
-- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)
-- **Coursera SQL Project Certificate** – Aug 2025
-- **Skillspire IDA Certificate: Data Analyst** – Sept 2023 
-- **High School Diploma** – Thomas Worthington High School (2019)  
-
----
-
-
-
 
 ## 📊 Projects
 
@@ -70,6 +58,17 @@ _JUL 2023_
 - Built an interactive Power BI dashboard to support decisions around staffing, inventory, and seating utilization.  
 - Applied data modeling, DAX measures, and business logic to answer key operational questions.  <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/9dc15505-5b2e-4c97-b220-4cd5d457550f" />
 
+---
+
+## Professional Experience
+
+---
+
+## Education & Certifications
+- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)
+- **Coursera SQL Project Certificate** – Aug 2025
+- **Skillspire IDA Certificate: Data Analyst** – Sept 2023 
+- **High School Diploma** – Thomas Worthington High School (2019)  
 
 ---
 
