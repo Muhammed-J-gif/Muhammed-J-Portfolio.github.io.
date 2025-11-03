@@ -1,16 +1,13 @@
 # Muhammed J.  
-**Business Analyst & Data Strategist**  
-📍 Washington, USA  
+**Entry Level Analyst**  
+📍 Washington, USA
 📧 Ibnsulayman.da@gmail.com 
-
-🌐[GitHub Profile](https://github.com/Muhammed-J-gif)
-
 🌐[LinkedIn Profile](www.linkedin.com/in/muhammed-jangana)
 
 ---
 
 ## 🧠 About Me 
-I’m a strategic and analytical professional passionate about transforming complex data into clear, actionable insights that drive process improvements and enhance customer satisfaction. My portfolio showcases hands-on projects how I’ve gain skills acquired though experience, courses, & certificates including SQL, Python, and Power BI to solve problem using data on a global scale.
+I care about making work easier and more meaningful for others. I organize data to help teams make clear decisions, improve systems, and serve people better. My contributions have reduced processing time and supported global launches, but I see each project as a chance to help, not just to perform. I’m looking for analyst roles where I can use my skills to solve real problems, communicate clearly, and collaborate with others in service
 
 ---
 
