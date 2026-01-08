@@ -39,6 +39,8 @@ I care about making work easier and more meaningful for others. I organize data 
 
 ## 📊 Projects
 
+### Partner Intelligence Analysis
+
 ### Data Analysis with SQL – Coursera Project  
 **Northwind Traders Bonus Eligibility**  
 _Aug 2025_
@@ -54,9 +56,6 @@ _JUL 2023_
 - Analyzed transactional data to uncover sales trends, peak hours, and best-selling pizzas.  
 - Built an interactive Power BI dashboard to support decisions around staffing, inventory, and seating utilization.  
 - Applied data modeling, DAX measures, and business logic to answer key operational questions.  <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/9dc15505-5b2e-4c97-b220-4cd5d457550f" />
-
-### Partner Intelligence Analysis
-
 
 
 
