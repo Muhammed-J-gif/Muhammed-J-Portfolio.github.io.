@@ -39,7 +39,8 @@ I care about making work easier and more meaningful for others. I organize data 
 
 ## 📊 Projects
 
-### Partner Intelligence Analysis
+### Partner Intelligence Analysis - Skillspire Project
+
 
 ### Data Analysis with SQL – Coursera Project  
 **Northwind Traders Bonus Eligibility**  
