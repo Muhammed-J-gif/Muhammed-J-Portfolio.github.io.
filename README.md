@@ -65,6 +65,29 @@ _JUL 2023_
 
 ## Professional Experience
 
+SpaceX logo
+Customer Support Associate
+Customer Support Associate
+SpaceX · Full-timeSpaceX · Full-time
+Aug 2024 - Sep 2025 · 1 yr 2 mosAug 2024 to Sep 2025 · 1 yr 2 mos
+Redmond, Washington, United StatesRedmond, Washington, United States
+- Initiated a project to update historic business documents by collaborating with stakeholders and peers, bridging gaps
+between old and new information.
+- Applied data analysis and communication skills to improve SOP accuracy, optimize workflows. 
+- Leveraged data analysis and strategic problem-solving to maintain an average customer satisfaction score of 4.75%, consistently surpassing team performance benchmarks through actionable insights and trend monitoring.
+- Applied deep understanding of DBMS and query languages to accurately diagnose software, hardware, and network issues, preventing unnecessary hardware replacements and optimizing operational workflows.
+- Utilized clear communication and business analysis skills to deliver rapid issue resolution, earning recognition as a top performer in customer satisfaction, quality, and process efficiency- Initiated a project to update historic business documents by collaborating with stakeholders and peers, bridging gaps between old and new information. - Applied data analysis and communication skills to improve SOP accuracy, optimize workflows. - Leveraged data analysis and strategic problem-solving to maintain an average customer satisfaction score of 4.75%, consistently surpassing team performance benchmarks through actionable insights and trend monitoring. - Applied deep understanding of DBMS and query languages to accurately diagnose software, hardware, and network issues, preventing unnecessary hardware replacements and optimizing operational workflows. - Utilized clear communication and business analysis skills to deliver rapid issue resolution, earning recognition as a top performer in customer satisfaction, quality, and process efficiency
+
+Avis Budget Group logo
+Customer Service Representative
+Customer Service Representative
+Avis Budget Group · Full-timeAvis Budget Group · Full-time
+Aug 2022 - Jul 2024 · 2 yrsAug 2022 to Jul 2024 · 2 yrs
+Seattle, Washington, United StatesSeattle, Washington, United States
+- Implemented a customer feedback system, leading to actionable insights and continuous improvement in service
+delivery.
+- Played a vital role in successfully implementing a system of premium customers to conveniently access their choice of rental car, resulting in above 50% reduction through rental pickup processing time.
+
 ---
 
 ## Education & Certifications
