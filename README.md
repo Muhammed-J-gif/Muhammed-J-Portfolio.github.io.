@@ -22,7 +22,7 @@ I care about making work easier and more meaningful for others. I organize data 
   
 ### 🔧 Process Optimization & Automation
 - Submitted 10+ scoped Jira tickets that led to updates in SOPs, tooling, and support workflows.
-- Led documentation modernization projects bridging legacy and current SOPs, improving clarity and reducing resolution time.
+- Led a documentation modernization project bridging legacy and current SOPs, improving clarity and reducing resolution time.
 - Comfortable navigating ambiguity and proposing scalable solutions across engineering, product, and support teams.
 
 ### 🤝 Cross-Functional Collaboration & Communication
@@ -39,15 +39,17 @@ I care about making work easier and more meaningful for others. I organize data 
 
 ## 📊 Projects
 
-### Partner Intelligence Analysis - Skillspire Project
+[### Partner Intelligence Analysis - Skillspire Project
+](https://github.com/Muhammed-J-gif/Partner-Intelligence-Project/blob/main/README.md)
+This is a project I did for Skillspire to showcase my analytical abilities using python to manipulate data and produce easy to interpret deliverables.
+Me and another peer worked together to create 4 solid deliverables (Marketing intelligence dashboard, A table produced from existing data to hight light each partners marketing focus, Tables showcasing Top 30 partners and lastly a table with top 20 keywords). In this project I created a shared platform for me and my peer to have a easy to reference point to streamline consistency with our efforts.
 
-
-### Data Analysis with SQL – Coursera Project  
+[### Data Analysis with SQL – Coursera Project  
+](https://github.com/Muhammed-J-gif/Data-Analysis-with-SQL-Inform-a-Business-Decision)
 **Northwind Traders Bonus Eligibility**  
 _Aug 2025_
-
-- Queried sales data to identify top-performing employees for bonus consideration.  
-- Applied SQL and business logic to solve a real-world decision-making scenario.
+This project analyzes the Northwind Traders database to determine which employees should receive sales‑performance bonuses. Using SQL, the work focuses on identifying the five highest‑value orders and the employees responsible for them. The project demonstrates practical data‑analysis skills by exploring database structure, joining multiple tables, calculating aggregated metrics, and presenting results in a decision‑ready format.
+The workflow includes examining table relationships, retrieving relevant sales data, computing order totals, and ranking performance. The final output is a clear, data‑driven list of top‑performing employees whose sales justify bonus awards. This project highlights SQL proficiency, business reasoning, and the ability to translate raw data into actionable insights.
 
 ### Data Visualization with Power BI – Skillspire Project
 **Greek-Inspired Pizza Shop Sales Dashboard** 
