@@ -39,12 +39,12 @@ I care about making work easier and more meaningful for others. I organize data 
 
 ## 📊 Projects
 
-[### Partner Intelligence Analysis - Skillspire Project
+###[Partner Intelligence Analysis - Skillspire Project
 ](https://github.com/Muhammed-J-gif/Partner-Intelligence-Project/blob/main/README.md)
 This is a project I did for Skillspire to showcase my analytical abilities using python to manipulate data and produce easy to interpret deliverables.
 Me and another peer worked together to create 4 solid deliverables (Marketing intelligence dashboard, A table produced from existing data to hight light each partners marketing focus, Tables showcasing Top 30 partners and lastly a table with top 20 keywords). In this project I created a shared platform for me and my peer to have a easy to reference point to streamline consistency with our efforts.
 
-[### Data Analysis with SQL – Coursera Project  
+###[Data Analysis with SQL – Coursera Project  
 ](https://github.com/Muhammed-J-gif/Data-Analysis-with-SQL-Inform-a-Business-Decision)
 **Northwind Traders Bonus Eligibility**  
 _Aug 2025_
