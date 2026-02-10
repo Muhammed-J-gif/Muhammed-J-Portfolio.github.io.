@@ -39,17 +39,16 @@ I care about making work easier and more meaningful for others. I organize data 
 
 ## 📊 Projects
 
-###[Partner Intelligence Analysis - Skillspire Project
-](https://github.com/Muhammed-J-gif/Partner-Intelligence-Project/blob/main/README.md)
+[Partner Intelligence Analysis - Skillspire Project](https://github.com/Muhammed-J-gif/Partner-Intelligence-Project/blob/main/README.md)
+
 This is a project I did for Skillspire to showcase my analytical abilities using python to manipulate data and produce easy to interpret deliverables.
 Me and another peer worked together to create 4 solid deliverables (Marketing intelligence dashboard, A table produced from existing data to hight light each partners marketing focus, Tables showcasing Top 30 partners and lastly a table with top 20 keywords). In this project I created a shared platform for me and my peer to have a easy to reference point to streamline consistency with our efforts.
-
-###[Data Analysis with SQL – Coursera Project  
-](https://github.com/Muhammed-J-gif/Data-Analysis-with-SQL-Inform-a-Business-Decision)
-**Northwind Traders Bonus Eligibility**  
-_Aug 2025_
+---
+[Data Analysis with SQL – Coursera Project](https://github.com/Muhammed-J-gif/Data-Analysis-with-SQL-Inform-a-Business-Decision)  
 This project analyzes the Northwind Traders database to determine which employees should receive sales‑performance bonuses. Using SQL, the work focuses on identifying the five highest‑value orders and the employees responsible for them. The project demonstrates practical data‑analysis skills by exploring database structure, joining multiple tables, calculating aggregated metrics, and presenting results in a decision‑ready format.
 The workflow includes examining table relationships, retrieving relevant sales data, computing order totals, and ranking performance. The final output is a clear, data‑driven list of top‑performing employees whose sales justify bonus awards. This project highlights SQL proficiency, business reasoning, and the ability to translate raw data into actionable insights.
+
+---
 
 ### Data Visualization with Power BI – Skillspire Project
 **Greek-Inspired Pizza Shop Sales Dashboard** 
