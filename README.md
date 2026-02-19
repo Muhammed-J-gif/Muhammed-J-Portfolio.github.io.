@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me 
-I care about making work easier and more meaningful for others. I organize data to help teams make clear decisions, improve systems, and serve people better. My contributions have reduced processing time and supported global launches, but I see each project as a chance to help, not just to perform. I’m looking for analyst roles where I can use my skills to solve real problems, communicate clearly, and collaborate with others in service
+I care about making work easier and more meaningful for others. I organize data to help teams make clear decisions, improve systems, and serve people better. My contributions have reduced processing time and supported global launches, but I see each project as a chance to help, not just to perform. I’m looking for an analytical role where I can use my skills to solve real problems, communicate clearly, and collaborate with others.
 
 ---
 
@@ -62,7 +62,6 @@ _JUL 2023_
 ---
 
 ## Education & Certifications
-- **Advanced Data Analytics Certificate** – Coursera (Currently pursuing)
 - **Coursera SQL Project Certificate** – Aug 2025
 - **Skillspire IDA Certificate: Data Analyst** – Sept 2023 
 - **High School Diploma** – Thomas Worthington High School (2019)  
