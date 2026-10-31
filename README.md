@@ -1,77 +1,153 @@
-# Muhammed J.  
-**Entry Level Analyst**  
-📍 Washington, USA
-📧 Ibnsulayman.da@gmail.com 
-🌐[LinkedIn Profile](www.linkedin.com/in/muhammed-jangana)
+# Muhammed Jangana
+
+### Entry-Level Data Analyst
+
+📍 Washington, USA  
+📧 Ibnsulayman.da@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-jangana)
 
 ---
 
-## 🧠 About Me 
-I care about making work easier and more meaningful for others. I organize data to help teams make clear decisions, improve systems, and serve people better. My contributions have reduced processing time and supported global launches, but I see each project as a chance to help, not just to perform. I’m looking for an analytical role where I can use my skills to solve real problems, communicate clearly, and collaborate with others.
+## About Me
+
+I am a data analyst passionate about transforming raw data into meaningful insights that help organizations make informed decisions. My experience spans data analysis, business intelligence, customer operations, and process improvement.
+
+Through projects and professional experience, I have leveraged SQL, Python, Power BI, Excel, and business intelligence tools to analyze performance, optimize workflows, and support operational excellence. I enjoy solving business problems, uncovering patterns, and communicating insights that drive action.
 
 ---
 
-## 🛠️ Skills & Expertise
+## Technical Skills
 
 ### Data Analysis & Business Intelligence
-- **SQL**: Used in Metabase to query support data, surface patterns, and support operational reporting.
-- **Python**: Applied Pandas and matplotlib for performance tracking and data visualization.
-- **Power BI**: Built dashboards and used DAX formulas to monitor KPIs and highlight performance trends.
-- **Excel**: Leveraged pivot tables, VLOOKUP, and conditional formatting for tracking, forecasting, and reporting.
-- **Metabase**: Used for ad hoc queries and visual exploration of support data to inform process improvements.
-  
-### 🔧 Process Optimization & Automation
-- Submitted 10+ scoped Jira tickets that led to updates in SOPs, tooling, and support workflows.
-- Led a documentation modernization project bridging legacy and current SOPs, improving clarity and reducing resolution time.
-- Comfortable navigating ambiguity and proposing scalable solutions across engineering, product, and support teams.
+- SQL
+- Python (Pandas, Matplotlib)
+- Power BI
+- Excel
+- Metabase
 
-### 🤝 Cross-Functional Collaboration & Communication
-- Partnered with engineering and customer success teams during international market launches shaping rollout strategy and tooling feedback.
-- Created internal documentation and training resources using Confluence and internal resource to improve operation procedures.
-- Recognized for clear, empathetic communication and leadership in high-volume global support environments.
+### Process Improvement
+- Workflow Optimization
+- SOP Development
+- Documentation Management
+- Root Cause Analysis
 
-### 📈 Customer Experience & Strategic Impact
-- Maintained a 4.75% average customer satisfaction score by translating feedback into actionable improvements.
-- Diagnosed software, hardware, and network issues using DBMS tools—preventing unnecessary replacements and improving operational efficiency.
-- Delivered rapid issue resolution through business analysis and stakeholder alignment, contributing to quality assurance and process excellence.
+### Collaboration & Communication
+- Cross-Functional Team Collaboration
+- Technical Documentation
+- Stakeholder Communication
+- Data Storytelling
 
 ---
 
-## 📊 Projects
+## Professional Highlights
 
-[Partner Intelligence Analysis - Skillspire Project](https://github.com/Muhammed-J-gif/Partner-Intelligence-Project/blob/main/README.md)
-
-This is a project I did for Skillspire to showcase my analytical abilities using python to manipulate data and produce easy to interpret deliverables.
-Me and another peer worked together to create 4 solid deliverables (Marketing intelligence dashboard, A table produced from existing data to hight light each partners marketing focus, Tables showcasing Top 30 partners and lastly a table with top 20 keywords). In this project I created a shared platform for me and my peer to have a easy to reference point to streamline consistency with our efforts.
----
-[Data Analysis with SQL – Coursera Project](https://github.com/Muhammed-J-gif/Data-Analysis-with-SQL-Inform-a-Business-Decision)  
-This project analyzes the Northwind Traders database to determine which employees should receive sales‑performance bonuses. Using SQL, the work focuses on identifying the five highest‑value orders and the employees responsible for them. The project demonstrates practical data‑analysis skills by exploring database structure, joining multiple tables, calculating aggregated metrics, and presenting results in a decision‑ready format.
-The workflow includes examining table relationships, retrieving relevant sales data, computing order totals, and ranking performance. The final output is a clear, data‑driven list of top‑performing employees whose sales justify bonus awards. This project highlights SQL proficiency, business reasoning, and the ability to translate raw data into actionable insights.
+- Maintained a **4.75/5 customer satisfaction rating** in a high-volume support environment.
+- Submitted **10+ process improvement initiatives** that enhanced workflows, tooling, and SOPs.
+- Partnered with Engineering, Product, and Customer Success teams during international market launches.
+- Led documentation modernization efforts that improved operational consistency and reduced resolution times.
+- Diagnosed software, hardware, and network issues using database and support tools, improving operational efficiency.
 
 ---
 
-### Data Visualization with Power BI – Skillspire Project
-**Greek-Inspired Pizza Shop Sales Dashboard** 
-Project File: 
-_JUL 2023_
+# Featured Projects
 
-- Analyzed transactional data to uncover sales trends, peak hours, and best-selling pizzas.  
-- Built an interactive Power BI dashboard to support decisions around staffing, inventory, and seating utilization.  
-- Applied data modeling, DAX measures, and business logic to answer key operational questions.  <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/9dc15505-5b2e-4c97-b220-4cd5d457550f" />
+## Partner Intelligence Analysis
+**Skillspire Capstone Project**
+
+🔗 **Repository:**  
+https://github.com/Muhammed-J-gif/Partner-Intelligence-Project
+
+### Overview
+Collaborated with another analyst to evaluate partner marketing data and create business intelligence deliverables highlighting marketing strategies, partner performance, and keyword opportunities.
+
+### Technologies
+- Python
+- Pandas
+- Data Analysis
+- Data Visualization
+
+### Deliverables
+- Marketing Intelligence Dashboard
+- Partner Marketing Focus Analysis
+- Top 30 Partner Performance Report
+- Top 20 Keyword Opportunity Analysis
 
 ---
 
-## Education & Certifications
-- **Coursera SQL Project Certificate** – Aug 2025
-- **Skillspire IDA Certificate: Data Analyst** – Sept 2023 
-- **High School Diploma** – Thomas Worthington High School (2019)  
+## Data Analysis with SQL: Informing Business Decisions
+**Coursera Guided Project**
+
+🔗 **Repository:**  
+https://github.com/Muhammed-J-gif/Data-Analysis-with-SQL-Inform-a-Business-Decision
+
+### Overview
+Analyzed the Northwind Traders database to identify top-performing employees and support bonus allocation decisions.
+
+### Technologies
+- SQL
+- Database Analysis
+- Business Intelligence
+
+### Key Achievements
+- Explored database relationships and business processes.
+- Created multi-table joins and aggregated performance metrics.
+- Identified employees responsible for the highest-value orders.
+- Delivered data-driven recommendations for bonus allocation.
 
 ---
 
-## 🧩 Extras
+## Greek-Inspired Pizza Shop Sales Dashboard
+**Skillspire Power BI Project**
 
-**Languages**  
-- English (Fluent), Arabic (Learning)
+### Overview
+Built an interactive Power BI dashboard to analyze pizza shop sales performance, identify customer demand trends, and support operational decision-making.
 
-**Hobbies**  
-- Chess · Jigsaw Puzzles
+### Technologies
+- Power BI
+- DAX
+- Data Modeling
+- Dashboard Development
+
+### Business Insights
+- Peak sales periods and customer traffic patterns
+- Best-selling pizzas and category performance
+- Staffing optimization opportunities
+- Inventory planning recommendations
+
+![Pizza Sales Dashboard](https://github.com/user-attachments/assets/9dc15505-5b2e-4c97-b220-4cd5d457550f)
+
+---
+
+## Certifications
+
+- **Coursera Data Analysis with SQL Certificate** (2025)
+- **Skillspire Data Analyst Certificate** (2023)
+
+---
+
+## Education
+
+**Thomas Worthington High School**  
+High School Diploma (2019)
+
+---
+
+## Additional Information
+
+### Languages
+- English (Fluent)
+- Arabic (Learning)
+
+### Interests
+- Chess
+- Jigsaw Puzzles
+- Data Analytics
+- Continuous Learning
+
+---
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/muhammed-jangana) • [GitHub](https://github.com/Muhammed-J-gif)
+
+> Data Analyst focused on using SQL, Python, Power BI, and Excel to turn data into actionable business insights.
