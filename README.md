@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a data analyst passionate about transforming raw data into meaningful insights that help organizations make informed decisions. My experience spans data analysis, business intelligence, customer operations, and process improvement.
+I am a data analyst transforming raw data into meaningful insights that help organizations make informed decisions. My experience spans data analysis, business intelligence, customer operations, and process improvement.
 
 Through projects and professional experience, I have leveraged SQL, Python, Power BI, Excel, and business intelligence tools to analyze performance, optimize workflows, and support operational excellence. I enjoy solving business problems, uncovering patterns, and communicating insights that drive action.
 
